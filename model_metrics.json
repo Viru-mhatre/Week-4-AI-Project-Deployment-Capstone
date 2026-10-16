@@ -1,0 +1,14 @@
+{
+    "temperature_c": {
+        "MAE": 1.285,
+        "R2": 0.88
+    },
+    "humidity_pct": {
+        "MAE": 4.308,
+        "R2": 0.865
+    },
+    "rainfall_mm": {
+        "MAE": 2.416,
+        "R2": -0.094
+    }
+}
